@@ -205,6 +205,6 @@ int main()
 	//check cycle for directed graph using bfs//
 
 	g.isbfscycle();
-	return 0;
+	return 1;
 }
 
